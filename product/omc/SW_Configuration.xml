@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A3050</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>TGY</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A3050TGY</CSCName>
+        <CSCVersion>4CWA3</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/TGY/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>TGY</CustomerCode>
+            <Version>SAOMC_SM-A3050_TGY_TGY_RR_0011</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages />
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
